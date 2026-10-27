@@ -2,11 +2,14 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    public float movespeed = 5f;
+    public float jumpforce = 10f;
+
+    private Rigidbody2D rb;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
     }
 
     // Update is called once per frame
@@ -14,13 +17,23 @@ public class PlayerController : MonoBehaviour
     {
 
         HandleMovements();
+        Jump();
 
 
     }
 
     private void HandleMovements()
     {
-        
+        float moveinput = Input.GetAxis("Horizontal");
+        rb.linearVelocity = new Vector2(moveinput * movespeed, rb.linearVelocity.y);
+    }
+
+    public void Jump()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpforce);
+
     }
  
 }
