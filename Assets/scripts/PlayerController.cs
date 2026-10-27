@@ -1,15 +1,17 @@
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class PlayerController : MonoBehaviour
 {
 
-    public float movespeed = 5f;
-    public float jumpforce = 10f;
+    public float movespeed = 20f;
+    public float jumpforce = 20f;
 
 
     private Rigidbody2D rb;
-    
-    
+ 
+
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -38,5 +40,5 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpforce);
 
     }
- 
+
 }
