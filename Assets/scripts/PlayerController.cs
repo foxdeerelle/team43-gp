@@ -4,6 +4,8 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     
+    private Rigidbody2D rb;
+    
     // weapon aiming comes from a tutorial here, big props: https://unitycodemonkey.com/text.php?v=fuGQFdhSPg4
     [SerializeField] private Transform aimTransform;
     
@@ -46,6 +48,12 @@ public class PlayerController : MonoBehaviour
         Vector3 mouseScreenPosition = Input.mousePosition;
         mouseScreenPosition.z = 10f;
         return Camera.main.ScreenToWorldPoint(mouseScreenPosition);
+    }
+    
+    public void KapowThatBinch(float xComp, float yComp)
+    {
+        print("kapow that binch");
+        rb.AddForce(new Vector3(yComp, 0, xComp));
     }
 }
 
