@@ -1,44 +1,30 @@
 using System;
+using UnityEditor.UI;
 using UnityEngine;
+using Object = UnityEngine.Object;
 
 public class PlayerController : MonoBehaviour
 {
     
-    private Rigidbody2D rb;
+    [SerializeField] private Rigidbody2D rb;
     
     // weapon aiming comes from a tutorial here, big props: https://unitycodemonkey.com/text.php?v=fuGQFdhSPg4
     [SerializeField] private Transform aimTransform;
+    [SerializeField] private float force;
     
-    public event EventHandler<ShootEventArgs> OnShoot;
+    bool grounded;
 
-    [Serializable]
-    public class ShootEventArgs : EventArgs
+    private void FixedUpdate()
     {
-        public Vector3 gunEndPointPosition;
-        public Vector3 shootPosition;
-    }
-
-    void Update()
-    {
-
         Vector3 mousePosition = GetMouseWorldPosition();
         Vector3 aimDirection = (mousePosition - aimTransform.position).normalized;
-        
         float angle =  Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg;
-        
         aimTransform.eulerAngles = new Vector3(0, 0, angle);
 
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && grounded)
         {
-            
-            OnShoot?.Invoke(this, new ShootEventArgs
-            {
-                gunEndPointPosition = aimTransform.position,
-                shootPosition = mousePosition
-            });
-
-            print("shot kekw");
-
+            rb.AddForce(-new Vector2(aimDirection.x, aimDirection.y) * force, ForceMode2D.Impulse);
+            print("shot: aimX = " + -aimDirection.x + ", aimY = " + -aimDirection.y);
         }
 
     }
@@ -50,10 +36,21 @@ public class PlayerController : MonoBehaviour
         return Camera.main.ScreenToWorldPoint(mouseScreenPosition);
     }
     
-    public void KapowThatBinch(float xComp, float yComp)
+    void OnCollisionEnter2D(Collision2D collision)
     {
-        print("kapow that binch");
-        rb.AddForce(new Vector3(yComp, 0, xComp));
+        if (collision.gameObject.tag == ("platform"))
+        {
+            grounded = true;
+        }
     }
+
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == ("platform"))
+        {
+            grounded = false;
+        }
+    }
+    
 }
 
