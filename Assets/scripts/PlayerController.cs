@@ -1,22 +1,6 @@
 using System;
 using UnityEditor.UI;
 using UnityEngine;
-using UnityEngine.Rendering;
-
-public class PlayerController : MonoBehaviour
-{
-
-    public float movespeed = 20f;
-    public float jumpforce = 20f;
-
-
-    private Rigidbody2D rb;
- 
-
-
-    void Start()
-    {
-        rb = GetComponent<Rigidbody2D>();
 using Object = UnityEngine.Object;
 
 public class PlayerController : MonoBehaviour
@@ -28,7 +12,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Transform aimTransform;
     [SerializeField] private float force;
     
-    bool grounded;
+    bool grounded = true;
 
     private void FixedUpdate()
     {
@@ -39,6 +23,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetMouseButtonDown(0) && grounded)
         {
+            rb.linearVelocity = Vector2.zero;
             rb.AddForce(-new Vector2(aimDirection.x, aimDirection.y) * force, ForceMode2D.Impulse);
             print("shot: aimX = " + -aimDirection.x + ", aimY = " + -aimDirection.y);
         }
@@ -54,39 +39,20 @@ public class PlayerController : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == ("platform"))
+        if (collision.gameObject.CompareTag("platform") || rb.transform.position.x < 1)
         {
             grounded = true;
         }
+        print("grounded: " + grounded);
     }
 
     void OnCollisionExit2D(Collision2D collision)
     {
-
-        HandleMovements();
-        Jump();
-
-
-    }
-
-    private void HandleMovements()
-    {
-        float moveinput = Input.GetAxis("Horizontal");
-        rb.linearVelocity = new Vector2(moveinput * movespeed, rb.linearVelocity.y);
-    }
-
-    public void Jump()
-    {
-        if (Input.GetKeyDown(KeyCode.Space))
-
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpforce);
-
-    }
-
-        if (collision.gameObject.tag == ("platform"))
+        if (collision.gameObject.CompareTag("platform"))
         {
             grounded = false;
         }
+        print("grounded: " + grounded);
     }
     
 }
