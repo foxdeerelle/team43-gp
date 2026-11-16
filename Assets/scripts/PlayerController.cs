@@ -11,8 +11,18 @@ public class PlayerController : MonoBehaviour
     // weapon aiming comes from a tutorial here, big props: https://unitycodemonkey.com/text.php?v=fuGQFdhSPg4
     [SerializeField] private Transform aimTransform;
     [SerializeField] private float force;
-    
+
+    [SerializeField] private float moveSpeed = 6f;
+
     bool grounded = true;
+    float moveInput;
+    bool shootpressed;
+
+    private void Update()
+    {
+        moveInput = Input.GetAxisRaw("Horizontal");
+        if (Input.GetMouseButtonDown(0)) shootpressed = true;
+    }
 
     private void FixedUpdate()
     {
@@ -21,13 +31,19 @@ public class PlayerController : MonoBehaviour
         float angle =  Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg;
         aimTransform.eulerAngles = new Vector3(0, 0, angle);
 
-        if (Input.GetMouseButtonDown(0) && grounded)
+        if (shootpressed && grounded)
         {
             rb.linearVelocity = Vector2.zero;
             rb.AddForce(-new Vector2(aimDirection.x, aimDirection.y) * force, ForceMode2D.Impulse);
             print("shot: aimX = " + -aimDirection.x + ", aimY = " + -aimDirection.y);
+
         }
 
+        else if (grounded && moveInput != 0f)
+        {
+            rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
+        }
+        shootpressed = false;
     }
     
     private Vector3 GetMouseWorldPosition()
@@ -54,6 +70,6 @@ public class PlayerController : MonoBehaviour
         }
         print("grounded: " + grounded);
     }
-    
+
 }
 
