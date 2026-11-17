@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 2ba00c690f145924381fd7f473f45981
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3211457131111986256
+    second: wooden-chest_64px_top-down_normal_0
+  - first:
+      213: 3682868560147919234
+    second: wooden-chest_64px_top-down_normal_1
+  - first:
+      213: -3683980325660435809
+    second: wooden-chest_64px_top-down_normal_2
+  - first:
+      213: -7710986909704596549
+    second: wooden-chest_64px_top-down_normal_3
+  - first:
+      213: -1313541251012984369
+    second: wooden-chest_64px_top-down_normal_4
+  - first:
+      213: 2668446805131047695
+    second: wooden-chest_64px_top-down_normal_5
+  - first:
+      213: -6673237223539213218
+    second: wooden-chest_64px_top-down_normal_6
+  - first:
+      213: 4873441523045022377
+    second: wooden-chest_64px_top-down_normal_7
+  - first:
+      213: -4111978038718097309
+    second: wooden-chest_64px_top-down_normal_8
+  - first:
+      213: -37367840055046955
+    second: wooden-chest_64px_top-down_normal_9
+  - first:
+      213: 6320140947074559710
+    second: wooden-chest_64px_top-down_normal_10
+  - first:
+      213: -1428793680012774500
+    second: wooden-chest_64px_top-down_normal_11
+  - first:
+      213: 3435118315662232336
+    second: wooden-chest_64px_top-down_normal_12
+  - first:
+      213: 8066972245716627517
+    second: wooden-chest_64px_top-down_normal_13
+  - first:
+      213: -8629056663801150118
+    second: wooden-chest_64px_top-down_normal_14
+  - first:
+      213: -8486370933789591913
+    second: wooden-chest_64px_top-down_normal_15
+  - first:
+      213: -5926025280357507228
+    second: wooden-chest_64px_top-down_normal_16
+  - first:
+      213: 5458510602725526926
+    second: wooden-chest_64px_top-down_normal_17
+  - first:
+      213: 3155130345714411132
+    second: wooden-chest_64px_top-down_normal_18
+  - first:
+      213: -8819780630298976858
+    second: wooden-chest_64px_top-down_normal_19
+  - first:
+      213: 747698937658488488
+    second: wooden-chest_64px_top-down_normal_20
+  - first:
+      213: -6652335341480051343
+    second: wooden-chest_64px_top-down_normal_21
+  - first:
+      213: 504812677244607852
+    second: wooden-chest_64px_top-down_normal_22
+  - first:
+      213: -1844805856913150125
+    second: wooden-chest_64px_top-down_normal_23
+  - first:
+      213: -4455916375112219503
+    second: wooden-chest_64px_top-down_normal_24
+  - first:
+      213: -3305363995628646601
+    second: wooden-chest_64px_top-down_normal_25
+  - first:
+      213: -54980985506783540
+    second: wooden-chest_64px_top-down_normal_26
+  - first:
+      213: -5565788087208153377
+    second: wooden-chest_64px_top-down_normal_27
+  - first:
+      213: -8219292112439103473
+    second: wooden-chest_64px_top-down_normal_28
+  - first:
+      213: -6460725096582175168
+    second: wooden-chest_64px_top-down_normal_29
+  - first:
+      213: -2157469947470449826
+    second: wooden-chest_64px_top-down_normal_30
+  - first:
+      213: 6709307708284814539
+    second: wooden-chest_64px_top-down_normal_31
+  - first:
+      213: -456850817807807551
+    second: wooden-chest_64px_top-down_normal_32
+  - first:
+      213: -4145041034680798759
+    second: wooden-chest_64px_top-down_normal_33
+  - first:
+      213: 6296290072064270523
+    second: wooden-chest_64px_top-down_normal_34
+  - first:
+      213: -6539145724652118152
+    second: wooden-chest_64px_top-down_normal_35
+  - first:
+      213: 8771903047086496104
+    second: wooden-chest_64px_top-down_normal_36
+  - first:
+      213: 812221105662875948
+    second: wooden-chest_64px_top-down_normal_37
+  - first:
+      213: -3462315969641595819
+    second: wooden-chest_64px_top-down_normal_38
+  - first:
+      213: 3782781802435350127
+    second: wooden-chest_64px_top-down_normal_39
+  - first:
+      213: -691895683273786961
+    second: wooden-chest_64px_top-down_normal_40
+  - first:
+      213: -3391716050363404042
+    second: wooden-chest_64px_top-down_normal_41
+  - first:
+      213: -1440965678949514259
+    second: wooden-chest_64px_top-down_normal_42
+  - first:
+      213: 1604738096796100207
+    second: wooden-chest_64px_top-down_normal_43
+  - first:
+      213: -8410350126526436943
+    second: wooden-chest_64px_top-down_normal_44
+  - first:
+      213: -3050282479522447605
+    second: wooden-chest_64px_top-down_normal_45
+  - first:
+      213: -2258753246257403776
+    second: wooden-chest_64px_top-down_normal_46
+  - first:
+      213: -7092703787581503991
+    second: wooden-chest_64px_top-down_normal_47
+  - first:
+      213: 6764199948238886733
+    second: wooden-chest_64px_top-down_normal_48
+  - first:
+      213: -5501651695785536282
+    second: wooden-chest_64px_top-down_normal_49
+  - first:
+      213: 1019715128018990740
+    second: wooden-chest_64px_top-down_normal_50
+  - first:
+      213: 6424246289455443726
+    second: wooden-chest_64px_top-down_normal_51
+  - first:
+      213: 1804931011121856728
+    second: wooden-chest_64px_top-down_normal_52
+  - first:
+      213: 7991153254538097657
+    second: wooden-chest_64px_top-down_normal_53
+  - first:
+      213: 2298180960428192349
+    second: wooden-chest_64px_top-down_normal_54
+  - first:
+      213: -6171483069599050019
+    second: wooden-chest_64px_top-down_normal_55
+  - first:
+      213: -1754959424382084048
+    second: wooden-chest_64px_top-down_normal_56
+  - first:
+      213: -6847537301234923403
+    second: wooden-chest_64px_top-down_normal_57
+  - first:
+      213: -3920545885095956780
+    second: wooden-chest_64px_top-down_normal_58
+  - first:
+      213: -8309620630457713812
+    second: wooden-chest_64px_top-down_normal_59
+  - first:
+      213: 7758413559519616444
+    second: wooden-chest_64px_top-down_normal_60
+  - first:
+      213: -6616060347967988449
+    second: wooden-chest_64px_top-down_normal_61
+  - first:
+      213: 1921429338984812948
+    second: wooden-chest_64px_top-down_normal_62
+  - first:
+      213: 7939576165491194896
+    second: wooden-chest_64px_top-down_normal_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 453
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0543357ee33619c20800000000000000
+      internalID: 3211457131111986256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 453
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281321a517d2c1330800000000000000
+      internalID: 3682868560147919234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 453
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a5b71996fdfdcc0800000000000000
+      internalID: -3683980325660435809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 453
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3de5b92421df490800000000000000
+      internalID: -7710986909704596549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 453
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc18c8f013d55cde0800000000000000
+      internalID: -1313541251012984369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 453
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03bcd13b3a380520800000000000000
+      internalID: 2668446805131047695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf70df916e363a0800000000000000
+      internalID: -6673237223539213218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 385
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aabcbe9e31f1a340800000000000000
+      internalID: 4873441523045022377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 385
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368100e82c15fe6c0800000000000000
+      internalID: -4111978038718097309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 385
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcce7fb52e3b7ff0800000000000000
+      internalID: -37367840055046955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 385
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edea7c0b4b6a5b750800000000000000
+      internalID: 6320140947074559710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 385
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93f385d7b7eb2ce0800000000000000
+      internalID: -1428793680012774500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 325
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b4c7678edfbaf20800000000000000
+      internalID: 3435118315662232336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 325
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ffde4484a3ff60800000000000000
+      internalID: 8066972245716627517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_14
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 325
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a554a67deae6f3880800000000000000
+      internalID: -8629056663801150118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_15
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 325
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7967543399a5a3a80800000000000000
+      internalID: -8486370933789591913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 325
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f5e4aa76782cda0800000000000000
+      internalID: -5926025280357507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 325
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d8826097680cb40800000000000000
+      internalID: 5458510602725526926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 257
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76ec54355649cb20800000000000000
+      internalID: 3155130345714411132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad9826fe38d99580800000000000000
+      internalID: -8819780630298976858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 257
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6321ae83c506a00800000000000000
+      internalID: 747698937658488488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dfd44a0482ea3a0800000000000000
+      internalID: -6652335341480051343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 257
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d57419474710700800000000000000
+      internalID: 504812677244607852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 257
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fa12be8dee566e0800000000000000
+      internalID: -1844805856913150125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_24
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 197
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19407905aa76922c0800000000000000
+      internalID: -4455916375112219503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f403365fcf022d0800000000000000
+      internalID: -3305363995628646601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_26
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 197
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce9771c51bac3ff0800000000000000
+      internalID: -54980985506783540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 197
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6bd6393952c2b0800000000000000
+      internalID: -5565788087208153377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 197
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00b5e41f553fed80800000000000000
+      internalID: -8219292112439103473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 197
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a4ca41c4e656a0800000000000000
+      internalID: -6460725096582175168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 197
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53717773802f02e0800000000000000
+      internalID: -2157469947470449826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 197
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc44b1130df3c1d50800000000000000
+      internalID: 6709307708284814539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_32
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 197
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb08390a90f8a9f0800000000000000
+      internalID: -456850817807807551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_33
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 197
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1fe6ce32bd976c0800000000000000
+      internalID: -4145041034680798759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0a53c167ae06750800000000000000
+      internalID: 6296290072064270523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f989bfb994045a0800000000000000
+      internalID: -6539145724652118152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869d1c5885f0cb970800000000000000
+      internalID: 8771903047086496104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295c12dac6954b00800000000000000
+      internalID: 812221105662875948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_38
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 129
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb95148f163ffc0800000000000000
+      internalID: -3462315969641595819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 129
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e88fcd1042f7430800000000000000
+      internalID: 3782781802435350127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 129
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9f6d8ba84e566f0800000000000000
+      internalID: -691895683273786961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_41
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 129
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03917e8343ee0d0800000000000000
+      internalID: -3391716050363404042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_42
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 129
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34fac7959a00ce0800000000000000
+      internalID: -1440965678949514259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_43
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 129
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f666119fbcc254610800000000000000
+      internalID: 1604738096796100207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_44
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9eabfae1f684b80800000000000000
+      internalID: -8410350126526436943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_45
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f7777fe383ba5d0800000000000000
+      internalID: -3050282479522447605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 69
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0882191d3eb47a0e0800000000000000
+      internalID: -2258753246257403776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 69
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9060324eb77a19d90800000000000000
+      internalID: -7092703787581503991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_48
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 69
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d479e70c3044fdd50800000000000000
+      internalID: 6764199948238886733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 69
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e417c28ee436a3b0800000000000000
+      internalID: -5501651695785536282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 69
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496f9a99181c62e00800000000000000
+      internalID: 1019715128018990740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_51
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 69
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fec9096f1872950800000000000000
+      internalID: 6424246289455443726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_52
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 69
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0410211376c0910800000000000000
+      internalID: 1804931011121856728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_53
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 69
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3337acb8746ee60800000000000000
+      internalID: 7991153254538097657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_54
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5273ef3867c4ef10800000000000000
+      internalID: 2298180960428192349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6163b98dc7a5aa0800000000000000
+      internalID: -6171483069599050019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_56
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c5b72a3b125a7e0800000000000000
+      internalID: -1754959424382084048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_57
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578c7a5ba19a8f0a0800000000000000
+      internalID: -6847537301234923403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_58
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de6c391a4c6799c0800000000000000
+      internalID: -3920545885095956780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_59
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7f47101c4eac80800000000000000
+      internalID: -8309620630457713812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_60
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9dbbc60c6bab60800000000000000
+      internalID: 7758413559519616444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d12daba280f24a0800000000000000
+      internalID: -6616060347967988449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_62
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491143bbdc94aaa10800000000000000
+      internalID: 1921429338984812948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-chest_64px_top-down_normal_63
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cb243f47a0f2e60800000000000000
+      internalID: 7939576165491194896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      wooden-chest_64px_top-down_normal_0: 3211457131111986256
+      wooden-chest_64px_top-down_normal_1: 3682868560147919234
+      wooden-chest_64px_top-down_normal_10: 6320140947074559710
+      wooden-chest_64px_top-down_normal_11: -1428793680012774500
+      wooden-chest_64px_top-down_normal_12: 3435118315662232336
+      wooden-chest_64px_top-down_normal_13: 8066972245716627517
+      wooden-chest_64px_top-down_normal_14: -8629056663801150118
+      wooden-chest_64px_top-down_normal_15: -8486370933789591913
+      wooden-chest_64px_top-down_normal_16: -5926025280357507228
+      wooden-chest_64px_top-down_normal_17: 5458510602725526926
+      wooden-chest_64px_top-down_normal_18: 3155130345714411132
+      wooden-chest_64px_top-down_normal_19: -8819780630298976858
+      wooden-chest_64px_top-down_normal_2: -3683980325660435809
+      wooden-chest_64px_top-down_normal_20: 747698937658488488
+      wooden-chest_64px_top-down_normal_21: -6652335341480051343
+      wooden-chest_64px_top-down_normal_22: 504812677244607852
+      wooden-chest_64px_top-down_normal_23: -1844805856913150125
+      wooden-chest_64px_top-down_normal_24: -4455916375112219503
+      wooden-chest_64px_top-down_normal_25: -3305363995628646601
+      wooden-chest_64px_top-down_normal_26: -54980985506783540
+      wooden-chest_64px_top-down_normal_27: -5565788087208153377
+      wooden-chest_64px_top-down_normal_28: -8219292112439103473
+      wooden-chest_64px_top-down_normal_29: -6460725096582175168
+      wooden-chest_64px_top-down_normal_3: -7710986909704596549
+      wooden-chest_64px_top-down_normal_30: -2157469947470449826
+      wooden-chest_64px_top-down_normal_31: 6709307708284814539
+      wooden-chest_64px_top-down_normal_32: -456850817807807551
+      wooden-chest_64px_top-down_normal_33: -4145041034680798759
+      wooden-chest_64px_top-down_normal_34: 6296290072064270523
+      wooden-chest_64px_top-down_normal_35: -6539145724652118152
+      wooden-chest_64px_top-down_normal_36: 8771903047086496104
+      wooden-chest_64px_top-down_normal_37: 812221105662875948
+      wooden-chest_64px_top-down_normal_38: -3462315969641595819
+      wooden-chest_64px_top-down_normal_39: 3782781802435350127
+      wooden-chest_64px_top-down_normal_4: -1313541251012984369
+      wooden-chest_64px_top-down_normal_40: -691895683273786961
+      wooden-chest_64px_top-down_normal_41: -3391716050363404042
+      wooden-chest_64px_top-down_normal_42: -1440965678949514259
+      wooden-chest_64px_top-down_normal_43: 1604738096796100207
+      wooden-chest_64px_top-down_normal_44: -8410350126526436943
+      wooden-chest_64px_top-down_normal_45: -3050282479522447605
+      wooden-chest_64px_top-down_normal_46: -2258753246257403776
+      wooden-chest_64px_top-down_normal_47: -7092703787581503991
+      wooden-chest_64px_top-down_normal_48: 6764199948238886733
+      wooden-chest_64px_top-down_normal_49: -5501651695785536282
+      wooden-chest_64px_top-down_normal_5: 2668446805131047695
+      wooden-chest_64px_top-down_normal_50: 1019715128018990740
+      wooden-chest_64px_top-down_normal_51: 6424246289455443726
+      wooden-chest_64px_top-down_normal_52: 1804931011121856728
+      wooden-chest_64px_top-down_normal_53: 7991153254538097657
+      wooden-chest_64px_top-down_normal_54: 2298180960428192349
+      wooden-chest_64px_top-down_normal_55: -6171483069599050019
+      wooden-chest_64px_top-down_normal_56: -1754959424382084048
+      wooden-chest_64px_top-down_normal_57: -6847537301234923403
+      wooden-chest_64px_top-down_normal_58: -3920545885095956780
+      wooden-chest_64px_top-down_normal_59: -8309620630457713812
+      wooden-chest_64px_top-down_normal_6: -6673237223539213218
+      wooden-chest_64px_top-down_normal_60: 7758413559519616444
+      wooden-chest_64px_top-down_normal_61: -6616060347967988449
+      wooden-chest_64px_top-down_normal_62: 1921429338984812948
+      wooden-chest_64px_top-down_normal_63: 7939576165491194896
+      wooden-chest_64px_top-down_normal_7: 4873441523045022377
+      wooden-chest_64px_top-down_normal_8: -4111978038718097309
+      wooden-chest_64px_top-down_normal_9: -37367840055046955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

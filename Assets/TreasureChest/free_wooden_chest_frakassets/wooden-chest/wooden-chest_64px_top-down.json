@@ -1,0 +1,2293 @@
+{
+ "frames": [
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_South_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 0.0,
+    "id": "3086c200d1deb758",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Close_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_South_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 0
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 0.0,
+    "id": "a5f6c58610be9f49",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Close_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_South_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 0
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 0.0,
+    "id": "9c7fa89bf89ec39d",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Close_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_South_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 0
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 0.0,
+    "id": "7541c75b6b7d3766",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Close_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_South_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 0
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 0.0,
+    "id": "015798ef79c1b392",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Close_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_South_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 0
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 0.0,
+    "id": "0ab3adaf7a69d4a6",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Close_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_East_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 64
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 90.0,
+    "id": "ba5d22a180d6705b",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Close_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_East_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 64
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 90.0,
+    "id": "84f86e064fbcb1d6",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Close_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_East_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 64
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 90.0,
+    "id": "198fe84a812b9a8a",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Close_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_East_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 64
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 90.0,
+    "id": "87b8e748ddb943b9",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Close_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_East_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 64
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 90.0,
+    "id": "1f023be248c97b29",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Close_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_East_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 64
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 90.0,
+    "id": "2bbb582189372abd",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Close_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_North_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 128
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 180.0,
+    "id": "6ff67d248ef0010e",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Close_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_North_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 128
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 180.0,
+    "id": "03d8fddf9bbac7f3",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Close_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_North_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 128
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 180.0,
+    "id": "0fc697aaa44c46c7",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Close_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_North_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 128
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 180.0,
+    "id": "9e6aae147f28e8f0",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Close_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_North_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 128
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 180.0,
+    "id": "e8594743dc744b98",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Close_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_North_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 128
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 180.0,
+    "id": "60d308c1f1a7cb0c",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Close_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_West_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 192
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 270.0,
+    "id": "dc8a131201a55101",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Close_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_West_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 192
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 270.0,
+    "id": "f4eb020c1f2bf670",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Close_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_West_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 192
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 270.0,
+    "id": "334630584e82bc14",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Close_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_West_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 192
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 270.0,
+    "id": "351c0780f972b273",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Close_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Close_West_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 192
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 270.0,
+    "id": "cf6eee0f3371b60f",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Close_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Close_West_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 192
+   },
+   "pixor": {
+    "action": "Close",
+    "degrees": 270.0,
+    "id": "1833989675a8fc53",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Close_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "0623a383cb57ab9f",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_South_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "00a1bd8b2cccb4da",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "0cd586eb38d23586",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "c6a20d56e717a03d",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_South_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "1c217426ec133135",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "3bc7101942cc8571",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_06.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 384,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "e93dfc3b17d215ce",
+    "index": 6,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_South_07.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 448,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "57c85e98b77fa5c8",
+    "index": 7,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_08.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 512,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "a5b30b10aceadd04",
+    "index": 8,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_South_09.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 576,
+    "y": 256
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 0.0,
+    "id": "4373a8513385aae7",
+    "index": 9,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "South",
+    "tag": "Open_South"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "87245b196e9dfb96",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_East_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "fa2c37b1116e3c9b",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "4188099e5c00236f",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "4d29aa5d4547b4e8",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_East_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "cb2aae83077239b0",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "33e481ff3feeeed4",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_06.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 384,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "4cdd955942fed4a7",
+    "index": 6,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_East_07.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 448,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "1cc89cb627472591",
+    "index": 7,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_08.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 512,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "d6a46faf70665745",
+    "index": 8,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_East_09.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 576,
+    "y": 320
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 90.0,
+    "id": "a0b311a5f04fa1fa",
+    "index": 9,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "East",
+    "tag": "Open_East"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "69cf12c150ea3339",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_North_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "274fe09f1ac19828",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "86c6bcedba14a30c",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "c1b09870365282db",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_North_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "6faa39d8e4459617",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "153db2e7db3b48cb",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_06.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 384,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "aa349266222f05c0",
+    "index": 6,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_North_07.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 448,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "99c93f918d2b7e3a",
+    "index": 7,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_08.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 512,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "f17b39cf5eb4570e",
+    "index": 8,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_North_09.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 576,
+    "y": 384
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 180.0,
+    "id": "e45cfd754c2d1ed1",
+    "index": 9,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "North",
+    "tag": "Open_North"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_00.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "58141b09e42461d8",
+    "index": 0,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_West_01.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 64,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "cd841e8f230449c9",
+    "index": 1,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_02.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 128,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "9ecfb74ec8994b1d",
+    "index": 2,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_03.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 192,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "7791d60e3b77bee6",
+    "index": 3,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_West_04.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 256,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "28e4f1f88c075e12",
+    "index": 4,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_05.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 320,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "0d03bc624a645c26",
+    "index": 5,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_06.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 384,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "9a6b767b46ad0869",
+    "index": 6,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 84,
+   "filename": "wooden-chest_Open_West_07.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 448,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "66eb7b1f3bd7aaeb",
+    "index": 7,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_08.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 512,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "0f031e7566cc292f",
+    "index": 8,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  },
+  {
+   "duration": 83,
+   "filename": "wooden-chest_Open_West_09.png",
+   "frame": {
+    "h": 64,
+    "w": 64,
+    "x": 576,
+    "y": 448
+   },
+   "pixor": {
+    "action": "Open",
+    "degrees": 270.0,
+    "id": "86bd265ec981a0cc",
+    "index": 9,
+    "pivot": {
+     "x": 32,
+     "y": 48
+    },
+    "side": "West",
+    "tag": "Open_West"
+   },
+   "rotated": false,
+   "sourceSize": {
+    "h": 64,
+    "w": 64
+   },
+   "spriteSourceSize": {
+    "h": 64,
+    "w": 64,
+    "x": 0,
+    "y": 0
+   },
+   "trimmed": false
+  }
+ ],
+ "meta": {
+  "app": "Pixor",
+  "format": "I8",
+  "frameTags": [
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 0,
+    "name": "Close_South",
+    "to": 5
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 6,
+    "name": "Close_East",
+    "to": 11
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 12,
+    "name": "Close_North",
+    "to": 17
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 18,
+    "name": "Close_West",
+    "to": 23
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 24,
+    "name": "Open_South",
+    "to": 33
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 34,
+    "name": "Open_East",
+    "to": 43
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 44,
+    "name": "Open_North",
+    "to": 53
+   },
+   {
+    "color": "#000000ff",
+    "direction": "forward",
+    "from": 54,
+    "name": "Open_West",
+    "to": 63
+   }
+  ],
+  "image": "wooden-chest_64px_top-down_outline_lit.png",
+  "layers": [
+   {
+    "blendMode": "normal",
+    "name": "final",
+    "opacity": 255
+   }
+  ],
+  "pixor": {
+   "cell": {
+    "h": 64,
+    "w": 64
+   },
+   "pivot": {
+    "x": 32,
+    "y": 48
+   },
+   "sides": {
+    "East": 90.0,
+    "North": 180.0,
+    "South": 0.0,
+    "West": 270.0
+   }
+  },
+  "scale": "1",
+  "size": {
+   "h": 512,
+   "w": 640
+  },
+  "slices": [
+   {
+    "color": "#0000ffff",
+    "keys": [
+     {
+      "bounds": {
+       "h": 64,
+       "w": 64,
+       "x": 0,
+       "y": 0
+      },
+      "frame": 0,
+      "pivot": {
+       "x": 32,
+       "y": 48
+      }
+     }
+    ],
+    "name": "pivot"
+   }
+  ],
+  "version": "2.0.1"
+ }
+}
