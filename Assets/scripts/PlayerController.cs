@@ -14,6 +14,9 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float force;
 
     [SerializeField] private float moveSpeed = 6f;
+    
+    [SerializeField] private AudioSource landAudioPlayer;
+    [SerializeField] private AudioSource shootAudioPlayer;
 
     bool grounded = true;
     float moveInput;
@@ -32,12 +35,12 @@ public class PlayerController : MonoBehaviour
         float angle =  Mathf.Atan2(aimDirection.y, aimDirection.x) * Mathf.Rad2Deg;
         aimTransform.eulerAngles = new Vector3(0, 0, angle);
 
-        if (shootPressed && grounded)
+        if (shootPressed && grounded && moveInput == 0f)
         {
             rb.linearVelocity = Vector2.zero;
             rb.AddForce(-new Vector2(aimDirection.x, aimDirection.y) * force, ForceMode2D.Impulse);
+            shootAudioPlayer.Play();
             print("shot: aimX = " + -aimDirection.x + ", aimY = " + -aimDirection.y);
-
         }
         else if (grounded && moveInput != 0f)
         {
@@ -58,6 +61,7 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.CompareTag("platform") || rb.transform.position.x < 1)
         {
             grounded = true;
+            landAudioPlayer.Play();
         }
         print("grounded: " + grounded);
     }
