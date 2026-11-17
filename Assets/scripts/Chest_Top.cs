@@ -6,6 +6,7 @@ public class Chest_Top : MonoBehaviour
     private Animator Chest_Anim_Manager;
     private bool isOpen = false;
     public GameObject UI_Win;
+    [SerializeField] private AudioSource audioPlayer;
 
     void Awake()
     {
@@ -21,6 +22,7 @@ public class Chest_Top : MonoBehaviour
             isOpen = true;
             Chest_Anim_Manager.SetTrigger("Open");
             UI_Win.SetActive(true);
+            audioPlayer.Play();
 
         }
     }
